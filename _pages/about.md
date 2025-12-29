@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 I am currently a **Postdoctoral Researcher at TU Dresden**, working with  
-**[Prof. Marc Timme](https://tu-dresden.de/mn/math/wir/people/marc-timme)**, where my research focuses on nonlinear dynamics and complex networks.
+**[Prof. Marc Timme](https://cfaed.tu-dresden.de/cfnd-about)**, where my research focuses on nonlinear dynamics and complex networks.
 
 Previously, I held a postdoctoral position at the **University of Zurich** in the **[Bascompte Lab](https://www.bascompte.net/)**, working with  
 **[Prof. Jordi Bascompte](https://www.bascompte.net/)** on ecological and mutualistic networks and their resilience properties.
 
 I completed my **PhD at IIT Ropar** under the supervision of  
-**[Prof. Partha Sarathi Dutta](https://sites.google.com/site/psdutta)**, where my doctoral research examined collapse, recovery, and critical transitions in ecological and spatially structured networks using dynamical systems and network-based modeling.
+**[Prof. Partha Sarathi Dutta](https://mathbio.iitrpr.ac.in/)**, where my doctoral research examined collapse, recovery, and critical transitions in ecological and spatially structured networks using dynamical systems and network-based modeling.
 
 Before my PhD, I studied at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**, where I developed a strong foundation in mathematics and theoretical sciences.
 
