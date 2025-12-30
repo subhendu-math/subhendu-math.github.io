@@ -1,4 +1,4 @@
-2021
+
 ---
 title: "Effects of time-varying habitat connectivity on metacommunity persistence"
 collection: publications
