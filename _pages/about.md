@@ -1,4 +1,4 @@
----
+I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**—which has shaped my curiosity and appreciation for the interplay between simplicity and complexity.---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -16,6 +16,5 @@ I completed my **PhD at IIT Ropar** under the supervision of
 
 Before my doctoral studies, I was trained at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**, where I developed a strong foundation in mathematics and theoretical sciences.
 
-I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**. Growing up in this environment shaped my curiosity about patterns, change, and emergence, themes that continue to guide my research today.
-
+I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**—which has shaped my curiosity and appreciation for the interplay between simplicity and complexity.
 My research lies at the intersection of **nonlinear dynamics, complex networks, and theoretical ecology**. I study collapse–recovery dynamics, critical transitions, and early warning signals in mutualistic and spatially structured systems, with a particular interest in how local interaction patterns and global spatial organization together determine resilience and persistence in complex networks.
