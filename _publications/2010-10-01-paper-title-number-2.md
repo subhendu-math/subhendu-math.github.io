@@ -10,5 +10,6 @@ venue: 'PHYSICAL REVIEW E'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://subhendu-math.github.io/files/PRE_2022.pdf'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'S. Bhandary, A. Author, and B. Author (2022). <i>Effects of time-varying habitat connectivity on metacommunity persistence</i>. Physical Review E.'
 ---
 
