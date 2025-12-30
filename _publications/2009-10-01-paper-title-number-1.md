@@ -1,4 +1,3 @@
-
 ---
 title: "Rising temperature drives tipping points in mutualistic networks"
 collection: publications
