@@ -1,4 +1,4 @@
-I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**—which has shaped my curiosity and appreciation for the interplay between simplicity and complexity.---
+---
 permalink: /
 title: "About Me"
 author_profile: true
