@@ -56,4 +56,4 @@ Selected research code is available on
 ## Full CV (PDF)
 
 A complete PDF version of my CV is available  
-**[here](files/cv.pdf)**.
+**[here](subhendu-math.github.io/files/cv.pdf)**.
