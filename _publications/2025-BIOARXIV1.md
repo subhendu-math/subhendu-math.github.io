@@ -1,7 +1,7 @@
 ---
 title: "Landscape configuration and community structure jointly determine the persistence of mutualists under habitat loss"
 collection: publications
-category: manuscripts
+category: Under Review
 permalink: /publication/2025-BIOARXIV1
 date: 20-01-01
 venue: "Bioarxiv"
