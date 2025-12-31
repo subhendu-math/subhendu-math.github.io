@@ -82,7 +82,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# ion Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+    Under Review:
+    title: 'Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
