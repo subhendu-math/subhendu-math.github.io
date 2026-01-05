@@ -13,7 +13,8 @@ Previously, I held a postdoctoral position at the **University of Zurich**, work
 
 I completed my **PhD at IIT Ropar** under the supervision of  **[Prof. Partha Sarathi Dutta](https://mathbio.iitrpr.ac.in/)**. My doctoral research examined critical transitions and early warning signals in ecological and spatially structured networks, combining dynamical systems theory with large-scale numerical modeling.
 
-Before my doctoral studies, I was trained at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**, where I developed a strong foundation in mathematics and theoretical sciences.
+Prior to my PhD, I studied at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**,developing a strong background in mathematics and theoretical sciences.
+
 
 I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**—which has shaped my curiosity and appreciation for the interplay between simplicity and complexity.
 My research lies at the intersection of **nonlinear dynamics, complex networks, and theoretical ecology**. I study collapse–recovery dynamics, critical transitions, and early warning signals in mutualistic and spatially structured systems, with a particular interest in how local interaction patterns and global spatial organization together determine resilience and persistence in complex networks.
