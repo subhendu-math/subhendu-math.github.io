@@ -13,7 +13,7 @@ Previously, I held a postdoctoral position at the **University of Zurich**, work
 
 I completed my **PhD at IIT Ropar** under the supervision of  **[Prof. Partha Sarathi Dutta](https://mathbio.iitrpr.ac.in/)**. My doctoral research examined critical transitions and early warning signals in ecological and spatially structured networks, combining dynamical systems theory with large-scale numerical modeling.
 
-Prior to my PhD, I studied at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**,developing a strong background in mathematics and theoretical sciences.
+Prior to my PhD, I studied at **IIT Guwahati** and **Ramakrishna Mission Residential College, Narendrapur (Kolkata)**, developing a strong background in mathematics and theoretical sciences.
 
 
 I come from **Kamarpukur, West Bengal, India**—a small village known as the birthplace of **Sri Ramakrishna Paramahamsa**—which has shaped my curiosity and appreciation for the interplay between simplicity and complexity.
