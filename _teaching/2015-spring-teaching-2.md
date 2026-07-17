@@ -13,7 +13,7 @@ At TU Dresden, I served as a lecturer for the following advanced elective course
 
 # <span style="color:#7D3C98;">Advanced Elective Course</span>
 
-## [An Introductory Guide to Nonlinear Oscillations and Oscillatory Networks](/teaching/nonlinear-oscillations-syllabus)
+## [An Introductory Guide to Nonlinear Oscillations and Oscillatory Networks](https://cfaed.tu-dresden.de/cfnd-teaching)
 
 **Schedule:**
 Monday, 16:40–18:10 (6th DS)
