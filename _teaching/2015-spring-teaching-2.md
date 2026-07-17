@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Experience at TU Dresden"
 collection: teaching
-type: "Workshop"
+type: " Advanced Elective Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "TU Dresden, Germany"
+date: 2026-01-01
+location: "Dresden, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+At TU Dresden, I served as a lecturer for the following advanced elective course.
 
-Heading 2
-======
+# <span style="color:#7D3C98;">Advanced Elective Course</span>
 
-Heading 3
-======
+## [An Introductory Guide to Nonlinear Oscillations and Oscillatory Networks](/teaching/nonlinear-oscillations-syllabus)
+
+**Course type:** Advanced Elective Course (Vertiefungsvorlesung)
+
+**Schedule:**
+Monday, 16:40–18:10 (6th DS)
+Wednesday, 11:10–12:40 (3rd DS)
+
+**Lecturers:** **Subhendu Bhandary**, Seungjae Lee,  and Marc Timme
