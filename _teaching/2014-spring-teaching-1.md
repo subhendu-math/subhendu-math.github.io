@@ -2,7 +2,7 @@
 title: "Teaching Assistantship During PhD" 
 collection: teaching 
 type: "Teaching Assistantship" 
-permalink: /teaching/phd-teaching-assistantship 
+permalink: /teaching/2018-spring-teaching-1 
 venue: "IIT Ropar" 
 date: 2018-01-01 
 #location: "City, Country" 
