@@ -1,30 +1,58 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience During PhD"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2018-spring-teaching-1
-venue: "IIT Ropar"
+type: "Teaching Assistantship"
+permalink: /teaching/phd-teaching-assistantship
+venue: "Indian Institute of Technology Ropar"
 date: 2018-01-01
-#location: "City, Country"
 ---
 
-Undergraduate Courses
+<style>
+.course-section {
+  margin: 24px 0;
+  padding: 20px 25px;
+  border-radius: 10px;
+}
 
-Ordinary Differential Equation
-======
+.undergraduate {
+  background-color: #eaf4ff;
+  border-left: 6px solid #2471a3;
+}
 
-Linear Algebra, Integral Transforms and Special Functions
-======
+.postgraduate {
+  background-color: #f3eafa;
+  border-left: 6px solid #7d3c98;
+}
 
-Probability and Statistics
-======
-Mathematical Methods for Engineers
-======
+.course-section h2 {
+  margin-top: 0;
+}
 
-Postgraduate Courses
+.course-section ul {
+  margin-bottom: 0;
+  line-height: 1.8;
+}
+</style>
 
-======
-Numerical Partial Differential Equation
-======
-Advanced Linear Algebra
-======
+During my PhD at the **Indian Institute of Technology Ropar**, I served as a  
+**Teaching Assistant** for several undergraduate and postgraduate mathematics courses.
+
+<div class="course-section undergraduate">
+
+## Undergraduate Courses
+
+- Ordinary Differential Equations
+- Linear Algebra, Integral Transforms, and Special Functions
+- Probability and Statistics
+- Mathematical Methods for Engineers
+
+</div>
+
+<div class="course-section postgraduate">
+
+## Postgraduate Courses
+
+- Numerical Partial Differential Equations
+- Advanced Linear Algebra
+
+</div>
