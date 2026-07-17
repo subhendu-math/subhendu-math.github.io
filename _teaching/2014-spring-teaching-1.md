@@ -1,12 +1,12 @@
+--- 
+title: "Teaching experience 1" 
+collection: teaching 
+type: "Undergraduate course" 
+permalink: /teaching/2018-spring-teaching-1 
+venue: "IIT Ropar" 
+date: 2018-01-01 
+#location: "City, Country" 
 ---
-title: "Teaching Assistantship During PhD"
-collection: teaching
-type: "Teaching Assistantship"
-permalink: /teaching/2018-spring-teaching-1
-venue: "IIT Ropar"
-date: 2018-06-01
-#location: "Rupnagar, Punjab, India"
-------------------------------------
 
 During my PhD at IIT Ropar, I served as a Teaching Assistant for the following undergraduate and postgraduate courses.
 
