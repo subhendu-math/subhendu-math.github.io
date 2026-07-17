@@ -6,5 +6,5 @@ permalink: /publication/2026-PROCDB
 date: 2026-04-29
 venue: "Proceedings of the Royal Society B"
 paperurl: "https://subhendu-math.github.io/files/RSPB2025.pdf"
-citation: "<b>Subhendu Bhandary^{*}</b>, Klementyna A. Gawecka, Fernando Pedraza, Jordi Bascompte."
+citation: "<b>Subhendu Bhandary<sup>*</sup></b>, Klementyna A. Gawecka, Fernando Pedraza, Jordi Bascompte."
 ---
