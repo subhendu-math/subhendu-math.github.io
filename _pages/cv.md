@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 **Ph.D. in Applied Mathematics**, IIT Ropar, India (2023)  
-Supervisor: **[Prof. Partha Sarathi Dutta](https://mathbio.iitrpr.ac.in/)**
+Supervisor: **[Prof. Partha Sharathi Dutta](https://mathbio.iitrpr.ac.in/)**
 
 **M.Sc. in Mathematics and Computing**, IIT Guwahati, India (2017)
 
